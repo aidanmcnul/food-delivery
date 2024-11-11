@@ -7,5 +7,6 @@ In our decision we are drawing upon 3 main criteria
 
   1. Crime/ Police Incident Reports
   2. Fatal Accidental Overdoses (A)
-  3. Allegheny Couny Air Quality
+  3. Firearm Seizures
+
 
