@@ -1,4 +1,4 @@
-# quality-of-life
+# Most Dangerous County
 ## Final Project
 
 Using collections of publically available data we are attempting to determine the best potential neighborhood to live in with the best quality of life.
