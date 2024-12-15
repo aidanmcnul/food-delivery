@@ -1,8 +1,8 @@
-# Most Dangerous County
+# Neighborhood With the Worst Quality of Life
 ## Final Project
 ### Team 23 
 
-Using collections of publically available data we are attempting to determine the best potential neighborhood to live in with the best quality of life.
+Using collections of publically available data we are attempting to determine the worst potential neighborhood to live in with the worst quality of life.
 
 In our decision we are drawing upon 3 main criteria
 
