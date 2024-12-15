@@ -1,11 +1,12 @@
 # Most Dangerous County
 ## Final Project
+### Team 23 
 
 Using collections of publically available data we are attempting to determine the best potential neighborhood to live in with the best quality of life.
 
 In our decision we are drawing upon 3 main criteria
 
-  1. Crime/ Police Incident Reports
+  1. Police Incident Reports, https://data.wprdc.org/dataset/uniform-crime-reporting-data/resource/391942e2-25ef-43e4-8263-f8519fa8aada , Brandon Allan - bja69@pitt.edu
   2. Fatal Accidental Overdoses (A)
   3. Firearm Seizures
 
