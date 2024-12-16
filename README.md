@@ -10,4 +10,4 @@ In our decision we are drawing upon 3 main criteria
   2. Fatal Accidental Overdoses, https://data.wprdc.org/dataset/allegheny-county-fatal-accidental-overdoses , Aidan McNulty - amm912@pitt.edu
   3. Firearm Seizures, https://data.wprdc.org/dataset/pbp-fire-arm-seizures, Liam Kren - lpk20@pitt.edu
 
-Link to Slides and Presentation - https://docs.google.com/presentation/d/1UpBlnOXHJTLcFlA4CKs8fmhVz1myOVCFEDHAyYaeIHw/edit?usp=sharing 
+Slides and Presentation are labeled under "Quality of Lide.pdf" in files
