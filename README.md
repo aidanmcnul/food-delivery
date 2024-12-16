@@ -7,7 +7,7 @@ Using collections of publically available data we are attempting to determine th
 In our decision we are drawing upon 3 main criteria
 
   1. Police Incident Reports, https://data.wprdc.org/dataset/uniform-crime-reporting-data/resource/391942e2-25ef-43e4-8263-f8519fa8aada , Brandon Allan - bja69@pitt.edu
-  2. Fatal Accidental Overdoses (A)
+  2. Fatal Accidental Overdoses, https://data.wprdc.org/dataset/allegheny-county-fatal-accidental-overdoses , Aidan McNulty - amm912@pitt.edu
   3. Firearm Seizures
 
 
